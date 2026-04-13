@@ -17,6 +17,8 @@ const config: Config = {
           500: '#0070F3',
           600: '#2F6FEB',
         },
+        darkblue: '#193799',
+        blueprimary: '#1e40af'
       },
     },
     keyframes: {
